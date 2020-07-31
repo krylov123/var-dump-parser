@@ -32,7 +32,7 @@ $array = $parser->parseOutput($string);
 git tag -l
 
 #add version
-git -a 0.0.1 -m "First version" 
+git tag -a 0.0.1 -m "First version" 
 
 #pushing the tags
 git push --tags
