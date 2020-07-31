@@ -1,8 +1,8 @@
 {
-  "name": "krylov123/packagist-boilerplate",
+  "name": "krylov123/var-dump-parser",
   "license": "MIT",
   "type": "library",
-  "description": "Packagist ready boilerplace for PHP package with PHPUnit depencency included",
+  "description": "Parser for PHP var_dump function output",
   "autoload": {
     "psr-4": {
       "Krylov123\\": "src/"

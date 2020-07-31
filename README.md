@@ -1,5 +1,5 @@
-# packagist-boilerplate h1
-Put some helpfull description here
+# var-dump-parser
+TODO add description and examples
 
 ## Working with versions:
 
